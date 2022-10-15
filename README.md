@@ -35,7 +35,7 @@ Abra o aplicativo de controle e clique em "CONECTAR". Aparecerá todos os dispos
 
 Ao clicar em "DESCONECTAR" os botões de movimento perdem efeito e o led do módulo volta a piscar.
 
-### Link
+### Links
 [MIT App Inventor](https://appinventor.mit.edu)
 
 [Arduino](https://www.arduino.cc)
