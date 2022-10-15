@@ -1,4 +1,6 @@
 # Controlando Robô com Arduino, Bluetooth e Android
+Old project: 03/31/2015.
+
 ## Controlling Robot with Arduino, Bluetooth and Android
 
 Este é um projeto antigo e foi testado no Android v.2.2 e v.4.2.
