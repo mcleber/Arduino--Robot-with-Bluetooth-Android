@@ -37,3 +37,7 @@ Ao clicar em "DESCONECTAR" os botões de movimento perdem efeito e o led do mód
 
 ### Link
 [MIT App Inventor](https://appinventor.mit.edu)
+
+[Arduino](https://www.arduino.cc)
+
+[Fritzing](https://fritzing.org)
